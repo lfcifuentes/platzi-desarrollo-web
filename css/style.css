@@ -251,7 +251,7 @@ figure {
     justify-content: space-between;
     padding: 0 10px; 
 }
-.footer div {
+.footer .container div {
     display: inline-block;
 }
 .footer img {
